@@ -3,7 +3,7 @@ This is my public portfolio for TELLING STORIES WITH DATA class!
 
 # About Me
 Hello! My name is Sabrina, and I am a MEIM student in CMU Heinz College. 
-I'm from Taiwan and my favorite thing about my home is the food so I tried hard to make similar dishes here in Pittsburgh (but seeminly failed).
+I'm from Taiwan and my favorite thing about my home is the food so I tried hard to make similar dishes here in Pittsburgh (but seemingly failed).
 My hidden superpower is that I know every single boring details about Disney Princesses and I seldom get an answer wrong in Disney Buzzfeed quizzes.
 
 # What I hope to learn
