@@ -46,7 +46,7 @@ And I also draft the visualization in a circle chart. Though it is visually appe
 
 - User Feedback:
 All three of the people I showed my chart to said that the information is clear and easily understandable, the way the chart present the data is in tune with human intuition, and they could grasp the idea and the main point very directly, furthermore, they found the data interesting! One of them said it is very surprising to see adventure is the most profitable genre. (I thought it would be action too) But two of them didn't realize the what the color difference in the bars mean before I explained to them, and one of them suggest me to sort the genres in the right box in same category order, such as:
-![genre ordering]()
+![genre ordering](https://user-images.githubusercontent.com/59816652/73615722-926b9d00-45d8-11ea-9b5a-47adb4e6de62.PNG)
 (But I don't know how to do that in Tableau! I tried to sort it manually but it kept changing the order of my chart simutaneously...)
 
 - Final Revise:
