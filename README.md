@@ -32,5 +32,21 @@ In the third graph of the OECD data visualization, I chose to use scatterplot an
 
 
 # Assignment 3 & 4 
-- Original Data Visualization
+*Original Data Visualization for Disney Movie Gross*
 ![Original Disney Movies Total Gross Visualization]()
+
+I chose this as my Data Visualization example because I am a huge Disney fan and I would be very interested in what kind of Disney movies sell the best in terms of genres. Also, this is a easy topic to approach and is a popular thing that most of the people would at least have a slight interest in. And for my final project I would like to do something Disney or entertainment related, so this is why I chose this particular data visualization.
+
+*Revised Data Visualization for Disney Movies Gross*
+![Original Disney Movies Total Gross Visualization]()
+
+- First Attempt Revise:
+First of all, I added title to my data visualization graph, this way the audience could clearly know what the data is about without going through all the texts. Secondly, I edited the rainbow color scheme into a 4 colored bar chart, and categorized different genre according to similar characteristics. Third, I adjusted the scale of the y axix, the y axix of the original data visualization confused me very much because I can't even tell whether the numbers should be directly align with the supporting lines or should they be between, therefore, I changed the scale into 4 billion for each supporting line, which hopefully can be more precise and clear for the audience.
+
+- User Feedback:
+All three of the people I showed my chart to said that the information is clear and easily understandable, the way the chart present the data is in tune with human intuition, and they could grasp the idea and the main point very directly. But two of them didn't realize the what the color difference in the bars mean before I explained to them, and one of them suggest me to sort the genres in the right box in same category order, such as:
+![genre ordering]()
+(But I don't know how to do that in Tableau! I tried to sort it manually but it kept changing the order of my chart simutaneously...)
+
+
+
