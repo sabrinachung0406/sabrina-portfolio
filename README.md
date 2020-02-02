@@ -29,3 +29,8 @@ In the third graph of the OECD data visualization, I chose to use scatterplot an
 2. The advantage of the second graph is that we can see the percentage differences within a country throughout the years, and also, we can directly compare the size of the dots to tell the differences between various countries and year. Moreover, we can see all the countries' names on the chart, but it'll be better if we can highlight some of the countries we would like to focus on.
 
 3. The advantage of the third graph is we can see the highlighted countries really well and we can also tell the growth/drop of a country's percentage throughout the years in a more instinctive way than the second one. The disadvantage of the graph is that we can't tell the other countries' numbers because they weren't highlighed and labeled, but if the purpose of the graph is focusing on comparing certain countries, we don't need excessive information to distract us.
+
+
+# Assignment 3 & 4 
+- Original Data Visualization
+![Original Disney Movies Total Gross Visualization](https://drive.google.com/file/d/1MPZ96cYSrzggIyO9Zkh3scQKlK2WRxAL/view?usp=sharing)
