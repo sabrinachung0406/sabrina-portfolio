@@ -2,8 +2,6 @@
 # Sabrina Chung
 
 ## Outline
-
-
 ### Introduction
 One of the most powerful strong suits for Disney is nostalgia, and now Disney is nearly remaking every single hit they ever have in store since its first animation movie, Snow White and the seven Dwarves. Therefore, I want to dig into and find out which character is the most profitable and whether remaking the story would be a promise to success.
 
@@ -29,13 +27,18 @@ Showned by a bubble chart
 ![Disney remakes](https://user-images.githubusercontent.com/59816652/74110772-50ed6b80-4b5d-11ea-9d06-0aaccf58937c.png)
 
 #### Analyze which kind of character/ genre is the most popular
-- Character (by inflated adjusted gross)
+- Character profitability (by inflated adjusted gross)
 Showned by a word cloud chart
-- Genre
+- Genre profitability
 Showned by a radar chart
 ![The most popular Disney genre throughout 1937-2016](https://user-images.githubusercontent.com/59816652/74110777-521e9880-4b5d-11ea-9e2c-80f311d06627.png)
 
+#### Conclusions
+- Future remake movie list
+
 ## Data Sources:
+I collected a lot of data sets that can be combined and break up in useful fractions.
+I would be mostly using the box offices/ gross/ inflated adjusted gross/ market share/ characters/ genre... as my main source of data.
 **Disney company stats**
 https://www.statista.com/topics/1824/disney/
 **Disney movie box office in 2019**
@@ -53,7 +56,9 @@ https://data.world/kgarrett/disney-character-success-00-16/workspace/file?filena
 **Disney remakes list**
 https://en.wikipedia.org/wiki/List_of_Disney_live-action_remakes_of_animated_films
 
-Amd also, I will be generating my own data set by hand typing in the remake movie list and their box office figures.
+Also, I will be generating my own data set by hand typing in the remake movie list and their box office figures sinec I couldn't find it anywhere online.
 
 ## Method and Medium
-
+I will be using Shorthand as my final presentation tool, I have already set up one.
+In total I would have around 8 graphs and I would also add in stories and thoughts to make the whole story arc complete and make sense!
+Moreover, I'll probably include a video line chart as we've been showed in class. 
