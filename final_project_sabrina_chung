@@ -5,4 +5,12 @@
 One of the most powerful strong suits for Disney is nostalgia, and now Disney is nearly remaking every single hit they ever have in store since its first animation movie, Snow White and the seven Dwarves. Therefore, I want to dig into and find out which character is the most profitable and whether remaking the story would be a promise to success.
 
 
-##
+## Data Sources:
+**Disney movies total gross**
+https://data.world/kgarrett/disney-character-success-00-16/workspace/file?filename=disney_movies_total_gross.csv
+**Disney movie gross by year**
+https://data.world/kgarrett/disney-character-success-00-16/workspace/file?filename=disney_movie_gross_by_year.png
+**Disney movie by adjusted gross**
+https://data.world/kgarrett/disney-character-success-00-16/workspace/file?filename=disney_movies_by_adjusted_gross.png
+**Disney remakes list**
+https://en.wikipedia.org/wiki/List_of_Disney_live-action_remakes_of_animated_films
