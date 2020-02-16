@@ -70,6 +70,8 @@ I will be using Shorthand as my final presentation tool, I have already set up o
 In total I would have around 8 graphs and I would also add in stories and thoughts to make the whole story arc complete and make sense!
 Moreover, I'll probably include a video line chart as we've been showed in class. 
 
+## Wireframe (by Balsamiq)
+![wireframepart II](https://user-images.githubusercontent.com/59816652/74610305-16855080-50c0-11ea-95d9-bd62f502f815.png)
 
 ## User Feedback
 My target audience is basically anyone who is interested in the movie industry, or enjoy watching movies, but the major target group would be people between 20 and 30, who grew up with Disney animated films and keep on being influenced by Disney works throughout the years. Therefore, I interviewd four people between this age range, including both genders for user feedback.
