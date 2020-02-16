@@ -78,7 +78,7 @@ My target audience is basically anyone who is interested in the movie industry, 
 Therefore, I interviewd four people between this age range, including both genders for user feedback.
 The interviews were conducted euther in English or Mandarin, I walked though the website but not going too into the details because I wnat to see their reaction and understanding of the material without me exlaining every single detail.
 
-* 1. Student, 22, Heinz College *
+**1. Student, 22, Heinz College**
 - Overall Comments:
 I think it is very clear and easy to read, and the topic is interesting so the audience can engage easily.
 - What do you think the purpose is? :
@@ -92,7 +92,7 @@ No.
 - What would you do after reading the website? :
 It actually makes me want to go watch a Disney remake movie!
 
-* 2. Student, 23, Heinz College *
+**2. Student, 23, Heinz College**
 - What do you think the purpose is? :
 A deep dive into Disney’s current content production strategy. 
 - What did you find confusing? :
@@ -110,7 +110,7 @@ Yes.
 - What would you do after reading the website? :
 Watch Disney movies!
 
-* 3. Student, 25, Robotics Institute *
+**3. Student, 25, Robotics Institute**
 - Overall Comments
 
 - What do you think the purpose is? :
@@ -124,7 +124,7 @@ Watch Disney movies!
 - What would you do after reading the website? :
 
 
-* 4. Student, 22, International *
+**4. Student, 22, International**
 - Overall Comments :
 I like your visuals! The colors are appealing and graphs are clear, nothing too confusing overall.
 - What do you think the purpose is? :
