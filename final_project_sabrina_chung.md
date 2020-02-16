@@ -138,18 +138,17 @@ Not exactly, I know that Disney is successful but the market share proportion is
 - What would you do after reading the website? :
 Sounds interesting! I want to go watch Disney remakes and actually thinking about subscribing to Disney plus.
 
-# Similarity
+# Similarity and Differences
 Seems like everyone appreciate the charts and graph being easy to read, which I believe is the key point of a data visualization.
 
-# Difference 
-Some people enjoy the colorful visuals, while one lf them think the colors are too much and I should stick to blue color scheme.
 
 ## Improvement Implement
 Integrating both my user feedback and the assignment feedback last week, here are the revised points:
 - Clarify the geographical range as "North America" in the beginning of the whole story.
 - Change the target audience into Disney executives, this way the call to action could be more accurate and helpful.
 - Intensify the call to action point: Decide which character or IP is profitable enough for a remake.
-- Improve the inflation graph: 
-- Improve the bubble chart:
+- Improve the inflation graph, line graph, and the bubble chart.
+- Add transition paragraph between different parts of the story to make the whole flow smoother and more logical.
+- Change the main color theme into blue.
 
-## Moodboard
+## Revised Wireframe
