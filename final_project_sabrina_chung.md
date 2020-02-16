@@ -147,7 +147,7 @@ Integrating both my user feedback and the assignment feedback last week, here ar
 - Clarify the geographical range as "North America" in the beginning of the whole story.
 - Change the target audience into Disney executives, this way the call to action could be more accurate and helpful.
 - Intensify the call to action point: Decide which character or IP is profitable enough for a remake.
-- Improve the inflation graph, line graph, and the bubble chart.
+- Improve the inflation graph, line graph, and the bubble chart. (as shown in the revised wireframe)
 - Add transition paragraph between different parts of the story to make the whole flow smoother and more logical.
 - Change the main color theme into blue.
 
