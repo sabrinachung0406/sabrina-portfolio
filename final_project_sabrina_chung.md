@@ -152,3 +152,4 @@ Integrating both my user feedback and the assignment feedback last week, here ar
 - Change the main color theme into blue.
 
 ## Revised Wireframe
+![wireframepart II](https://user-images.githubusercontent.com/59816652/74613721-b2be5000-50de-11ea-84d0-34e7a7bd3df2.png)
