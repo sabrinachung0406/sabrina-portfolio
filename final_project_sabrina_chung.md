@@ -76,7 +76,7 @@ Moreover, I'll probably include a video line chart as we've been showed in class
 ## User Feedback
 My target audience is basically anyone who is interested in the movie industry, or enjoy watching movies, but the major target group would be people between 20 and 30, who grew up with Disney animated films and keep on being influenced by Disney works throughout the years. 
 Therefore, I interviewd four people between this age range, including both genders for user feedback.
-The interviews were conducted euther in English or Mandarin, I walked though the website but not going too into the details because I wnat to see their reaction and understanding of the material without me exlaining every single detail.
+The interviews were conducted either in English or Mandarin, I walked though the website but not going too into the details because I want to know their reaction to and understanding of the material without me explaining every single detail.
 
 **1. Student, 22, Heinz College**
 - Overall Comments:
