@@ -6,9 +6,16 @@
 ![wireframepart II](https://user-images.githubusercontent.com/59816652/74610305-16855080-50c0-11ea-95d9-bd62f502f815.png)
 
 ## User Feedback
-My target audience is basically anyone who is interested in the movie industry, or enjoy watching movies, but the major target group would be people between 20 and 30, who grew up with Disney animated films and keep on being influenced by Disney works throughout the years. 
-Therefore, I interviewd four people between this age range, including both genders for user feedback.
-The interviews were conducted either in English or Mandarin, I walked though the website but not going too into the details because I want to know their reaction to and understanding of the material without me explaining every single detail.
+*Target audience*
+My target audience is basically anyone who is interested in the movie industry, or enjoy watching movies, but the major target group would be people between 20 and 30, who grew up with Disney animated films and keep on being influenced by Disney works throughout the years. Therefore, I interviewd four people between this age range, including both genders for user feedback.
+*Interview protocol*
+The interviews were conducted either in English or Mandarin, I walked though the website while showing the balasmiq wireframe and told them in a story flow but did not explain too much details because I want to know their reaction to and understanding of the material without me explaining every single detail.
+The questions are:
+1. What do you think the purpose is?
+2. What did you find confusing?
+3. What would you change?
+4. Did you know the information before reading the website?
+5. What would you do after reading the website?
 
 **1. Student, 22, Heinz College**
 - Overall Comments:
@@ -82,8 +89,9 @@ Integrating both my user feedback and the assignment feedback last week, here ar
 - Intensify the call to action point: Decide which character or IP is profitable enough for a remake.
 - Improve the inflation graph, line graph, and the bubble chart. (as shown in the revised wireframe)
 - Clearify the graph labels, rephrase with exrtra thought.
-- Add transition paragraph between different parts of the story to make the whole flow smoother and more logical.
+- Add transition paragraph (as the square shown in the revised wireframe) between different parts of the story to make the whole flow smoother and more logical.
 - Change the main color theme into blue.
+(- Add a button to Disney plus, where people can watch Disnwy animated and remake movies online)
 
 ## Revised Wireframe
 ![wireframepart II](https://user-images.githubusercontent.com/59816652/74613721-b2be5000-50de-11ea-84d0-34e7a7bd3df2.png)
