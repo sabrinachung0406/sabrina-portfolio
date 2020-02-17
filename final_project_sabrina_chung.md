@@ -1,4 +1,4 @@
-# Telling Stories with Data Final Project
+# Telling Stories with Data Final Project Part II
 # Sabrina Chung
 
 
@@ -43,18 +43,18 @@ Yes.
 Watch Disney movies!
 
 **3. Student, 25, Robotics Institute**
-- Overall Comments
-
+- Overall Comment:
+I love the colorful design! It feels fun and very Disney-like. And the topic is fun and easy to make people want to read more.
 - What do you think the purpose is? :
-
+The box office power of Disney remakes, and to put emphasis on the possibility and profitability of an IP remake.
 - What did you find confusing? :
-
+The "Disney box office 2019" chart is a bit confusing, I can not tell the difference between two different colors without being explained at. (After she saw the verbal description, she finally understood the meaning of the graph)
 - What would you change? :
-
+I would put more emphasis on the conclusion and findings because I am a bit lost after reading though all those graphs.
 - Did you know these info before reading the website? :
-
+No.
 - What would you do after reading the website? :
-
+I realized that I haven't watch the most popular live action Disney movie (The lion King) yet, so it actually makes me want to go watch it now.
 
 **4. Student, 22, International**
 - Overall Comments :
@@ -71,7 +71,8 @@ Not exactly, I know that Disney is successful but the market share proportion is
 Sounds interesting! I want to go watch Disney remakes and actually thinking about subscribing to Disney plus.
 
 # Similarity and Differences
-Seems like everyone appreciate the charts and graph being easy to read, which I believe is the key point of a data visualization.
+Seems like everyone appreciate the charts and graph being easy to read, which I believe is the key point of a data visualization. And also two of them seems to feel that the call to action is not clear enough and should be intensified. And also, the label for the graphs should be phrased more carefully and clearer.
+One of the differences is that some people enjoy the colorful design, but one person suggested to unify the color scheme as blue, which is the color of Disney. (Which I adapted into my revised version because too many color might distract the audience from focusing on true important information)
 
 
 ## Improvement Implement
@@ -80,6 +81,7 @@ Integrating both my user feedback and the assignment feedback last week, here ar
 - Change the target audience into Disney executives, this way the call to action could be more accurate and helpful.
 - Intensify the call to action point: Decide which character or IP is profitable enough for a remake.
 - Improve the inflation graph, line graph, and the bubble chart. (as shown in the revised wireframe)
+- Clearify the graph labels, rephrase with exrtra thought.
 - Add transition paragraph between different parts of the story to make the whole flow smoother and more logical.
 - Change the main color theme into blue.
 
