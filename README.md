@@ -61,8 +61,8 @@ I tried to sort the same colored genre together but I can't seem to do it in Tab
 *Final Revised Data Visualization for Disney Movies Gross*
 ![Final Disney Movies Total Gross Visualization](https://user-images.githubusercontent.com/59816652/73615720-88e23500-45d8-11ea-8651-fc313ba3f6c2.png)
 
-**Final Project**
-**PART I**
+# **Final Project**
+# **PART I**
 ## Outline
 One of the most powerful strong suits for Disney is nostalgia, and now Disney is nearly remaking every single hit they ever have in store since its first animation movie, Snow White and the seven Dwarves. Therefore, I want to dig into and find out which character is the most profitable and whether remaking the story would be a promise to success.
 
@@ -133,7 +133,7 @@ In total I would have around 8 graphs and I would also add in stories and though
 Moreover, I'll probably include a video line chart as we've been showed in class. 
 
 
-**PART II**
+# **PART II**
 ## Wireframe (by Balsamiq)
 ![wireframepart II](https://user-images.githubusercontent.com/59816652/74610305-16855080-50c0-11ea-95d9-bd62f502f815.png)
 
