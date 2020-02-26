@@ -172,7 +172,17 @@ final website: https://carnegiemellon.shorthandstories.com/is-nostalgia-profitab
 ## Intended Audience
 My target audience would be studio executives, especially Disney Studio execs. Therefore, my call to action for them is to figure out which IP is profitable enough to be considered into remakes, and if so, is the remake version suitable for theatrical release? Or should it be aired on streaming platforms only? And after determining which form they're going to release it, they can decide the level of budget. As we learn from the box office disappointment of the remake live-action Dumbo, knowing the popularity of the original IP and matching the reasonable budget to it is very crucial for a successful movie.  
 My secondary audience would be general public who are interested in Disney movies or film industry at all, and the call to action for them is to provoke their interest in the remakes and also the original animated films (which I did get in all my user tests feedback, every single of my users told me my article made them want to go back and rewatch Disney movies! yay! Mission accomplished!) I set them as my secondary audience because even they learned somrthing forom the article, they could not make the call and decide which IP should be make into live actions.
-p.s. I once wanted to change my topic after part II, because I thought my call to action was not clear enough, but then I realized that I don't have to make the whole public my target audience, so I switched focus on "studio executives", and this decision made my story flow and call to action clearer and made more sense.
+### p.s.
+I once wanted to change my topic after part II, because I thought my call to action was not clear enough, but then I realized that I don't have to make the whole public my target audience, so I switched focus on "studio executives", and this decision made my story flow and call to action clearer and made more sense.
 
 ## Thoughts
 
+## Data, References, and Source
+The photos were all taken by me, but the IPs belong to Disney.
+https://www.statista.com/statistics/790396/box-office-revenue-disney/
+https://www.cnbc.com/2019/12/29/disney-accounted-for-nearly-40percent-of-the-2019-us-box-office-data-shows.html
+https://www.statista.com/statistics/187300/box-office-market-share-of-disney-in-north-america-since-2000/
+https://data.world/kgarrett/disney-character-success-00-16/workspace/file?filename=disney_movies_total_gross.csv
+https://en.wikipedia.org/wiki/List_of_Disney_live-action_remakes_of_animated_films
+https://data.world/dot2/disney-character-data-set-project/workspace/dataset?agentid=kgarrett&datasetid=disney-character-success-00-16
+https://www.the-numbers.com/box-office-records/worldwide/all-movies/theatrical-distributors/walt-disney
