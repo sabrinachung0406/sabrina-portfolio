@@ -138,11 +138,18 @@ Moreover, I'll probably include a video line chart as we've been showed in class
 ![wireframepart II](https://user-images.githubusercontent.com/59816652/74610305-16855080-50c0-11ea-95d9-bd62f502f815.png)
 
 ## User Feedback
-My target audience is basically anyone who is interested in the movie industry, or enjoy watching movies, but the major target group would be people between 20 and 30, who grew up with Disney animated films and keep on being influenced by Disney works throughout the years. 
-Therefore, I interviewd four people between this age range, including both genders for user feedback.
-The interviews were conducted euther in English or Mandarin, I walked though the website but not going too into the details because I wnat to see their reaction and understanding of the material without me exlaining every single detail.
+*Target audience*
+My target audience is basically anyone who is interested in the movie industry, or enjoy watching movies, but the major target group would be people between 20 and 30, who grew up with Disney animated films and keep on being influenced by Disney works throughout the years. Therefore, I interviewd four people between this age range, including both genders for user feedback.
+*Interview protocol*
+The interviews were conducted either in English or Mandarin, I walked though the website while showing the balasmiq wireframe and told them in a story flow but did not explain too much details because I want to know their reaction to and understanding of the material without me explaining every single detail.
+The questions are:
+1. What do you think the purpose is?
+2. What did you find confusing?
+3. What would you change?
+4. Did you know the information before reading the website?
+5. What would you do after reading the website?
 
-* 1. Student, 22, Heinz College *
+**1. Student, 22, Heinz College**
 - Overall Comments:
 I think it is very clear and easy to read, and the topic is interesting so the audience can engage easily.
 - What do you think the purpose is? :
@@ -156,7 +163,7 @@ No.
 - What would you do after reading the website? :
 It actually makes me want to go watch a Disney remake movie!
 
-* 2. Student, 23, Heinz College *
+**2. Student, 23, Heinz College**
 - What do you think the purpose is? :
 A deep dive into Disney’s current content production strategy. 
 - What did you find confusing? :
@@ -174,21 +181,21 @@ Yes.
 - What would you do after reading the website? :
 Watch Disney movies!
 
-* 3. Student, 25, Robotics Institute *
-- Overall Comments
-
+**3. Student, 25, Robotics Institute**
+- Overall Comment:
+I love the colorful design! It feels fun and very Disney-like. And the topic is fun and easy to make people want to read more.
 - What do you think the purpose is? :
-
+The box office power of Disney remakes, and to put emphasis on the possibility and profitability of an IP remake.
 - What did you find confusing? :
-
+The "Disney box office 2019" chart is a bit confusing, I can not tell the difference between two different colors without being explained at. (After she saw the verbal description, she finally understood the meaning of the graph)
 - What would you change? :
-
+I would put more emphasis on the conclusion and findings because I am a bit lost after reading though all those graphs.
 - Did you know these info before reading the website? :
-
+No.
 - What would you do after reading the website? :
+I realized that I haven't watch the most popular live action Disney movie (The lion King) yet, so it actually makes me want to go watch it now.
 
-
-* 4. Student, 22, International *
+**4. Student, 22, International**
 - Overall Comments :
 I like your visuals! The colors are appealing and graphs are clear, nothing too confusing overall.
 - What do you think the purpose is? :
@@ -202,18 +209,24 @@ Not exactly, I know that Disney is successful but the market share proportion is
 - What would you do after reading the website? :
 Sounds interesting! I want to go watch Disney remakes and actually thinking about subscribing to Disney plus.
 
-## Similarity
-Seems like everyone appreciate the charts and graph being easy to read, which I believe is the key point of a data visualization.
+## Similarity and Differences
+Seems like everyone appreciate the charts and graph being easy to read, which I believe is the key point of a data visualization. And also two of them seems to feel that the call to action is not clear enough and should be intensified. And also, the label for the graphs should be phrased more carefully and clearer.
+One of the differences is that some people enjoy the colorful design, but one person suggested to unify the color scheme as blue, which is the color of Disney. (Which I adapted into my revised version because too many color might distract the audience from focusing on true important information)
 
-## Difference 
-Some people enjoy the colorful visuals, while one lf them think the colors are too much and I should stick to blue color scheme.
 
 ## Improvement Implement
 Integrating both my user feedback and the assignment feedback last week, here are the revised points:
 - Clarify the geographical range as "North America" in the beginning of the whole story.
 - Change the target audience into Disney executives, this way the call to action could be more accurate and helpful.
 - Intensify the call to action point: Decide which character or IP is profitable enough for a remake.
-- Improve the inflation graph: 
-- Improve the bubble chart:
+- Improve the inflation graph, line graph, and the bubble chart. (as shown in the revised wireframe)
+- Clearify the graph labels, rephrase with exrtra thought.
+- Add transition paragraph (as the square shown in the revised wireframe) between different parts of the story to make the whole flow smoother and more logical.
+- Change the main color theme into blue.
+(- Add a button to Disney plus, where people can watch Disnwy animated and remake movies online)
+
+## Revised Wireframe
+![wireframepart II](https://user-images.githubusercontent.com/59816652/74613721-b2be5000-50de-11ea-84d0-34e7a7bd3df2.png)
+
 
 # **PART III**
