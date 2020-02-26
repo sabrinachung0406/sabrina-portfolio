@@ -13,17 +13,6 @@ I have always been looking foward to taking this class. I hope I can learn to be
 This is where my works will be and I am very excited to see what my portfolio would be at the end of the course!
 
 
-
-# Explanation for the OECD graphs
-In the third graph of the OECD data visualization, I chose to use scatterplot and focus on the contrast between the United States and Japan, which I highlighted by the color blue and red (same as the ecolor and countries we show in the first chart). Using the scatterplot we can have a more visually appealing way to know how the debt is in porpotion of its GDP throughout the time frame. And the best part is you can tell by the graph how these two countries' percentages compare to others in a clear way.
-
-1. The advantage of the first graph is that we can clearly see the percentage ranking among all countries, but we can't see the numbers individually throughout the years, which could give us lesser information than deisred.
-
-2. The advantage of the second graph is that we can see the percentage differences within a country throughout the years, and also, we can directly compare the size of the dots to tell the differences between various countries and year. Moreover, we can see all the countries' names on the chart, but it'll be better if we can highlight some of the countries we would like to focus on.
-
-3. The advantage of the third graph is we can see the highlighted countries really well and we can also tell the growth/drop of a country's percentage throughout the years in a more instinctive way than the second one. The disadvantage of the graph is that we can't tell the other countries' numbers because they weren't highlighed and labeled, but if the purpose of the graph is focusing on comparing certain countries, we don't need excessive information to distract us.
-
-
 # Assignment 3 & 4 
 *Original Data Visualization for Disney Movie Gross*
 
