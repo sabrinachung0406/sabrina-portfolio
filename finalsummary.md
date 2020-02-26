@@ -1,4 +1,4 @@
-# **Final Project**
+# **Sabrina Chung Telling Stories with Data Final Project**
 # **PART I**
 ## Outline
 One of the most powerful strong suits for Disney is nostalgia, and now Disney is nearly remaking every single hit they ever have in store since its first animation movie, Snow White and the seven Dwarves. Therefore, I want to dig into and find out which character is the most profitable and whether remaking the story would be a promise to success.
@@ -168,6 +168,11 @@ Integrating both my user feedback and the assignment feedback last week, here ar
 
 # **PART III**
 final website: https://carnegiemellon.shorthandstories.com/is-nostalgia-profitable-/index.html
-##Intended Audience
 
-##
+## Intended Audience
+My target audience would be studio executives, especially Disney Studio execs. Therefore, my call to action for them is to figure out which IP is profitable enough to be considered into remakes, and if so, is the remake version suitable for theatrical release? Or should it be aired on streaming platforms only? And after determining which form they're going to release it, they can decide the level of budget. As we learn from the box office disappointment of the remake live-action Dumbo, knowing the popularity of the original IP and matching the reasonable budget to it is very crucial for a successful movie.  
+My secondary audience would be general public who are interested in Disney movies or film industry at all, and the call to action for them is to provoke their interest in the remakes and also the original animated films (which I did get in all my user tests feedback, every single of my users told me my article made them want to go back and rewatch Disney movies! yay! Mission accomplished!) I set them as my secondary audience because even they learned somrthing forom the article, they could not make the call and decide which IP should be make into live actions.
+p.s. I once wanted to change my topic after part II, because I thought my call to action was not clear enough, but then I realized that I don't have to make the whole public my target audience, so I switched focus on "studio executives", and this decision made my story flow and call to action clearer and made more sense.
+
+## Thoughts
+
