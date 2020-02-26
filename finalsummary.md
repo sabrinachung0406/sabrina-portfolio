@@ -167,3 +167,7 @@ Integrating both my user feedback and the assignment feedback last week, here ar
 
 
 # **PART III**
+final website: https://carnegiemellon.shorthandstories.com/is-nostalgia-profitable-/index.html
+##Intended Audience
+
+##
