@@ -171,18 +171,24 @@ final website: https://carnegiemellon.shorthandstories.com/is-nostalgia-profitab
 
 ## Intended Audience
 My target audience would be studio executives, especially Disney Studio execs. Therefore, my call to action for them is to figure out which IP is profitable enough to be considered into remakes, and if so, is the remake version suitable for theatrical release? Or should it be aired on streaming platforms only? And after determining which form they're going to release it, they can decide the level of budget. As we learn from the box office disappointment of the remake live-action Dumbo, knowing the popularity of the original IP and matching the reasonable budget to it is very crucial for a successful movie.  
-My secondary audience would be general public who are interested in Disney movies or film industry at all, and the call to action for them is to provoke their interest in the remakes and also the original animated films (which I did get in all my user tests feedback, every single of my users told me my article made them want to go back and rewatch Disney movies! yay! Mission accomplished!) I set them as my secondary audience because even they learned somrthing forom the article, they could not make the call and decide which IP should be make into live actions.
-### p.s.
+My secondary audience would be general public who are interested in Disney movies or film industry at all, and the call to action for them is to provoke their interest in the remakes and also the original animated films (which I did get in all my user tests feedback, every single of my users told me my article made them want to go back and rewatch Disney movies! yay! Mission accomplished!) I set them as my secondary audience because even they learned somrthing forom the article, they could not make the call and decide which IP should be make into live actions.<br/>
+p.s.
 I once wanted to change my topic after part II, because I thought my call to action was not clear enough, but then I realized that I don't have to make the whole public my target audience, so I switched focus on "studio executives", and this decision made my story flow and call to action clearer and made more sense.
 
 ## Thoughts
+The major setback I had faced is the word cloud! It was an important piece of visualization to my article and I wouldn't want it another way so I struggeled so much when creating it. I can not find the ideal word cloud generator so I actually made it by hand. I did find some word cloud generator systems online but none of their way of generating fits mine so I decided to make my own chart. I ranked the IPs by their box office gross, and designed the size of each word according to their total gross. It took me so long but the result is definetely worth it! The popularity/ profitability is clear even from a short glimpse of the word cloud, which I am proud of. (bur of course I still wish there was a more convenient way)
+Moreover, I am glad I adapted one of my feedback from PART II to coordinate my graphs into one single color tone, which makes the website looks more coherent and easy to scroll through.
+
+Also I had a hard time deciding the layout of my article in Shorthand too, I changed it so much and I never felt it was perfect. To avoid confusion, I break down my article in three parts of stories, and I add some transition intro between each session, I hope it would be a smooth and make sense journey for the readers without jumping through ideas back and forth.
+
+At last I really liked my topic and I know it isn't as serious as other students' issues but I enjoyed the process and am very passionate about what the article is about!
 
 ## Data, References, and Source
-The photos were all taken by me, but the IPs belong to Disney.
-https://www.statista.com/statistics/790396/box-office-revenue-disney/
-https://www.cnbc.com/2019/12/29/disney-accounted-for-nearly-40percent-of-the-2019-us-box-office-data-shows.html
-https://www.statista.com/statistics/187300/box-office-market-share-of-disney-in-north-america-since-2000/
-https://data.world/kgarrett/disney-character-success-00-16/workspace/file?filename=disney_movies_total_gross.csv
-https://en.wikipedia.org/wiki/List_of_Disney_live-action_remakes_of_animated_films
-https://data.world/dot2/disney-character-data-set-project/workspace/dataset?agentid=kgarrett&datasetid=disney-character-success-00-16
-https://www.the-numbers.com/box-office-records/worldwide/all-movies/theatrical-distributors/walt-disney
+The photos were all taken by me, but the IP belongs to Disney.<br/>
+https://www.statista.com/statistics/790396/box-office-revenue-disney/<br/>
+https://www.cnbc.com/2019/12/29/disney-accounted-for-nearly-40percent-of-the-2019-us-box-office-data-shows.html<br/>
+https://www.statista.com/statistics/187300/box-office-market-share-of-disney-in-north-america-since-2000/<br/>
+https://data.world/kgarrett/disney-character-success-00-16/workspace/file?filename=disney_movies_total_gross.csv<br/>
+https://en.wikipedia.org/wiki/List_of_Disney_live-action_remakes_of_animated_films<br/>
+https://data.world/dot2/disney-character-data-set-project/workspace/dataset?agentid=kgarrett&datasetid=disney-character-success-00-16<br/>
+https://www.the-numbers.com/box-office-records/worldwide/all-movies/theatrical-distributors/walt-disney<br/>
