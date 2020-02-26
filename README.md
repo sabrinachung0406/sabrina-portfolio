@@ -202,10 +202,10 @@ Not exactly, I know that Disney is successful but the market share proportion is
 - What would you do after reading the website? :
 Sounds interesting! I want to go watch Disney remakes and actually thinking about subscribing to Disney plus.
 
-# Similarity
+## Similarity
 Seems like everyone appreciate the charts and graph being easy to read, which I believe is the key point of a data visualization.
 
-# Difference 
+## Difference 
 Some people enjoy the colorful visuals, while one lf them think the colors are too much and I should stick to blue color scheme.
 
 ## Improvement Implement
@@ -216,3 +216,4 @@ Integrating both my user feedback and the assignment feedback last week, here ar
 - Improve the inflation graph: 
 - Improve the bubble chart:
 
+# **PART III**
